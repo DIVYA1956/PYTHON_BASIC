@@ -10,4 +10,4 @@ def count_vowels(text):
 
 sentence = input("Enter a sentence: ")
 vowel_count = count_vowels(sentence)
-print(f"Number of vowels in your sentence: {vowel_count}")
+print("Total vowels in your sentence: {vowel_count}")
