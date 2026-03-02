@@ -1,4 +1,4 @@
-#  Python Practice Repository
+# Python Practice Repository
 
 This repository contains structured Python programs focused on:
 
@@ -7,7 +7,7 @@ This repository contains structured Python programs focused on:
 - Error handling
 - Clean coding practices
 
-##  Goals
+## Goals
 - Strengthen Python fundamentals
 - Practice Git workflow
 - Prepare for open-source contributions
