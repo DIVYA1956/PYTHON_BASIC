@@ -6,7 +6,7 @@ This repository contains structured Python programs focused on:
 - Input validation
 - Error handling
 - Clean coding practices
-
+  
 ## Goals
 - Strengthen Python fundamentals
 - Practice Git workflow
