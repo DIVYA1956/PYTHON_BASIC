@@ -15,3 +15,21 @@ This repository contains structured Python programs focused on:
 ---
 
 ## Programs Included
+
+---
+
+## How to Contribute
+
+1. Fork the repository  
+2. Clone it to your local machine  
+3. Create a new branch  
+4. Make improvements  
+5. Commit your changes  
+6. Push and create a Pull Request  
+
+---
+
+## Author
+
+Maintained by Divya  
+Focused on Python fundamentals and open-source learning.
