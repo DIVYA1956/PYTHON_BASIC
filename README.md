@@ -1,16 +1,17 @@
-# PYTHON_BASIC
-collection of python practice questions with solution to strengthen logic building.
+# Python Practice Repository
 
-## Even Odd Program
+This repository contains structured Python programs focused on:
 
-This program checks whether a number is even or odd.
+- Logic building
+- Input validation
+- Error handling
+- Clean coding practices
 
-### Features
-- Takes user input safely
-- Handles invalid (non-numeric) input
-- Uses function for better structure
+## Goals
+- Strengthen Python fundamentals
+- Practice Git workflow
+- Prepare for open-source contributions
 
-Run the program using:
+---
 
-```bash
-python even_odd.py
+## Programs Included
