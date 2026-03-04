@@ -19,7 +19,7 @@ def main():
         return
 
     vowel_count = count_vowels(sentence)
-    print(f"Total vowels in your sentence: {vowel_count}")
+    print(f"Total number of vowels: {vowel_count}")
 
 
 if __name__ == "__main__":
