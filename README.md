@@ -6,8 +6,9 @@ This repository contains structured Python programs focused on:
 - Input validation
 - Error handling
 - Clean coding practices
-  
+
 ## Goals
+
 - Strengthen Python fundamentals
 - Practice Git workflow
 - Prepare for open-source contributions
@@ -16,16 +17,21 @@ This repository contains structured Python programs focused on:
 
 ## Programs Included
 
+- vowel_counter.py
+- even_odd.py
+- read_second_line.py
+- count_word_char_line_fromfile.py
+
 ---
 
 ## How to Contribute
 
-1. Fork the repository  
-2. Clone it to your local machine  
-3. Create a new branch  
-4. Make improvements  
-5. Commit your changes  
-6. Push and create a Pull Request  
+1. Fork the repository
+2. Clone it to your local machine
+3. Create a new branch
+4. Make improvements
+5. Commit your changes
+6. Push and create a Pull Request
 
 ---
 
@@ -33,3 +39,13 @@ This repository contains structured Python programs focused on:
 
 Maintained by Divya  
 Focused on Python fundamentals and open-source learning.
+
+---
+
+## How to Run Programs
+
+Example:
+
+python vowel_counter.py  
+python even_odd.py  
+python count_word_char_line_fromfile.py
