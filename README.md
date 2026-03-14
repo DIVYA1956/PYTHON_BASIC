@@ -21,6 +21,8 @@ This repository contains structured Python programs focused on:
 - even_odd.py
 - read_second_line.py
 - count_word_char_line_fromfile.py
+- palindrome_checker.py
+- reverse_string.py
 
 ---
 
